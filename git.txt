@@ -1,2 +1,2 @@
 Hello world of git!!
-commit #2!
+commit #2
